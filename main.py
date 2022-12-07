@@ -5,6 +5,7 @@ from solutions.day02 import *
 from solutions.day03 import *
 from solutions.day04 import *
 from solutions.day05 import *
+from solutions.day06 import *
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
@@ -24,7 +25,10 @@ if __name__ == '__main__':
     print('DAY 04 - PUZZLE 01: %d' % advent04_01())
     print('DAY 04 - PUZZLE 02: %d' % advent04_02())
     print('************************************')
-    print('DAY 04 - PUZZLE 01: %s' % advent05_01())
-    print('DAY 04 - PUZZLE 02: %s' % advent05_02())
+    print('DAY 05 - PUZZLE 01: %s' % advent05_01())
+    print('DAY 05 - PUZZLE 02: %s' % advent05_02())
+    print('************************************')
+    print('DAY 06 - PUZZLE 01: %s' % advent06_01())
+    print('DAY 06 - PUZZLE 02: %s' % advent06_02())
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
